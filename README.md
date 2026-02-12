@@ -2,7 +2,9 @@
 <h3 align="center">A passionate cloud & devops engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotiprakashdas784&label=Profile%20views&color=0e75b6&style=flat" alt="jyotiprakashdas784" /> </p>
-<img align="right" alt="coding" width="400", src="https://tenor.com/view/sultan-alrefaei-programmer-office-gif-13165216">
+<p align="center">
+  <img src="https://media.tenor.com/yourgif.gif" width="400" />
+</p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotiprakashdas784" alt="jyotiprakashdas784" /></a> </p>
 
 - 🌱 I’m currently learning **devops**
